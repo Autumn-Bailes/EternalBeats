@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <!-- Height of each music list item -->
+    <dimen name="music_list_item_height">88dp</dimen>
+    <!-- Height of the single text box in beat_container -->
+    <dimen name="single_text_box_height">44dp</dimen>
+    <!-- Height of the list item play button -->
+    <dimen name="list_item_play_button">24dp</dimen>
+    <!-- Default padding -->
+    <dimen name="default_padding">16dp</dimen>
+    <!-- List item padding -->
+
+    <!-- Height of now playing buttons -->
+
+</resources>
